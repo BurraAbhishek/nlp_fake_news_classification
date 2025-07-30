@@ -13,9 +13,12 @@ For the purpose of this demonstration, let us assume that the virtual environmen
 
 ```
 conda create --name nlp_env python==3.12
+conda activate nlp_env
 conda install jupyter
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
 To load a Jupyter notebook, you can simply type `jupyter notebook` in your terminal.
+
+To deactivate the environment, you can type `conda deactivate` in your terminal. You can then reactivate the environment anytime.
