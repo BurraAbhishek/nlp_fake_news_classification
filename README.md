@@ -1,5 +1,5 @@
 # nlp_fake_news_classification
-Classifying fake news and performing other NLP operations on the dataset
+Classifying fake news and performing other NLP operations on the dataset. This is my solution to the practical task in the [Intro to NLP Course](https://github.com/l-newbould/introtonlp-365) by [Lauren Newbould](https://github.com/l-newbould) with some additional insights added.
 
 ## Requirements
 
